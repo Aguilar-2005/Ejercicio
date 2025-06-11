@@ -34,3 +34,4 @@ class PersonaServicio(QMainWindow):
             self.ui.cbGenero.setCurrentText("")
             self.ui.txtEmail.setText("")
             print("Se eliminó con éxito")
+
